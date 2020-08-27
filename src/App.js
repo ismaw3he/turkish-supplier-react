@@ -20,6 +20,7 @@ function App() {
     <Provider store={store} >
       <Router>
         <div className="App">
+          <h1>TEST</h1>
           <nav>
             <ul>
               <li>
